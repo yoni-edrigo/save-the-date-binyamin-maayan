@@ -210,6 +210,23 @@
       .phone { width: 100vw; height: 100dvh; border-radius: 0; border: none; box-shadow: none; }
       .phone-screen { border-radius: 0; }
       .phone::before, .phone-btn-vol-up, .phone-btn-vol-dn, .phone-btn-power { display: none; }
+
+       .cal-buttons { gap: 12px; }
+
+      .cal-btn {
+        padding: 14px 16px;
+        font-size: 15px;
+        border-radius: 16px;
+        gap: 12px;
+        min-height: 52px;          /* comfortable tap target (Apple HIG: 44pt min) */
+      }
+      .cal-btn img,
+      .cal-btn svg { width: 24px; height: 24px; }
+    
+      /* give the content a bit more breathing room too */
+      .screen-content { padding: 0 20px 28px; }
+      .divider { margin-bottom: 18px; }
+      .cal-label { margin-bottom: 14px; font-size: 11px; }
     }
   </style>
 </head>
