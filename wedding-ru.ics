@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SaveTheDate//Maayan-Binyamin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:maayan-binyamin-2026@savethedate
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Jerusalem:20260823T180000
+DTEND;TZID=Asia/Jerusalem:20260824T010000
+SUMMARY:Свадьба – Маайан и Биньямин
+DESCRIPTION:Приглашаем вас на свадьбу Маайан и Биньямина!
+LOCATION:Долина Хефер, Израиль
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//SaveTheDate//Maayan-Binyamin//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:maayan-binyamin-2026@savethedate
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Jerusalem:20260823T180000
+DTEND;TZID=Asia/Jerusalem:20260824T010000
+SUMMARY:Wedding – Maayan & Binyamin
+DESCRIPTION:Join us to celebrate the wedding of Maayan & Binyamin!
+LOCATION:Hefer Valley, Israel
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
